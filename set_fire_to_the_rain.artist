@@ -1,0 +1,10 @@
+=> [[32m#<Song:0x00007fffbf37b0d8[0m
+  id: [1;34m5[0m,
+  name: [31m[1;31m"[0m[31mHello[1;31m"[0m[31m[0m,
+  artist_id: [1;34m3[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffbf33fa88[0m
+  id: [1;34m7[0m,
+  name: [31m[1;31m"[0m[31mSet Fire to the Rain[1;31m"[0m[31m[0m,
+  artist_id: [1;34m3[0m,
+  genre_id: [1;36mnil[0m[32m>[0m]

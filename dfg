@@ -1,0 +1,35 @@
+=> [[32m#<Song:0x00007fffdb1cdb98[0m
+  id: [1;34m1[0m,
+  name: [31m[1;31m"[0m[31mHello[1;31m"[0m[31m[0m,
+  artist_id: [1;34m1[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1dbd10[0m
+  id: [1;34m2[0m,
+  name: [31m[1;31m"[0m[31mHotline Bling[1;31m"[0m[31m[0m,
+  artist_id: [1;34m2[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1dbbd0[0m
+  id: [1;34m3[0m,
+  name: [31m[1;31m"[0m[31mSomeone Like You[1;31m"[0m[31m[0m,
+  artist_id: [1;34m1[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1dba90[0m
+  id: [1;34m4[0m,
+  name: [31m[1;31m"[0m[31mSet Fire To The Rain[1;31m"[0m[31m[0m,
+  artist_id: [1;34m1[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1db950[0m
+  id: [1;34m5[0m,
+  name: [31m[1;31m"[0m[31mHello[1;31m"[0m[31m[0m,
+  artist_id: [1;34m3[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1db810[0m
+  id: [1;34m6[0m,
+  name: [31m[1;31m"[0m[31mSomeone Like You[1;31m"[0m[31m[0m,
+  artist_id: [1;34m3[0m,
+  genre_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Song:0x00007fffdb1db6d0[0m
+  id: [1;34m7[0m,
+  name: [31m[1;31m"[0m[31mSet Fire to the Rain[1;31m"[0m[31m[0m,
+  artist_id: [1;34m3[0m,
+  genre_id: [1;36mnil[0m[32m>[0m]
